@@ -18,7 +18,7 @@ public class ELECTRICITYBILL {
             x=100*10+100*15+(n-200)*20;
         }
         else if (n>300) {
-            x=100*10+100*15+100*20+(n-200)*25;
+            x=100*10+100*15+100*20+(n-300)*25;
         }
         System.out.println("BILL:"+x);
     }
