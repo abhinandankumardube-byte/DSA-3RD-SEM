@@ -9,5 +9,4 @@ public class pie {
         float c=a/b;
         System.out.printf("%.3f",c);
     }
-
 }
