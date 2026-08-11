@@ -14,5 +14,9 @@ public class basics {
         if (s1==s2){
             System.out.println("same");
         }
+        else {
+            System.out.println("not same");
+        }
+
     }
 }
