@@ -17,6 +17,6 @@ public class basics {
         else {
             System.out.println("not same");
         }
-
+// original string mai modification nahi kar sakte hai nayi string bana sakte hai aap
     }
 }
