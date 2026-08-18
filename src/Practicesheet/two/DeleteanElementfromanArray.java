@@ -1,4 +1,4 @@
-package LABHW.two;
+package Practicesheet.two;
 
 import java.util.Scanner;
 

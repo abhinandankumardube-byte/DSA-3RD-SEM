@@ -1,4 +1,4 @@
-package LABHW.two;
+package Practicesheet.two;
 import java.util.Scanner;
 public class InsertanElementataGivenPosition {
     public static void main(String[] args) {
